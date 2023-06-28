@@ -1,4 +1,0 @@
-Arquivo de teste. Aprendendo a usar o git.
-Editado no git hub
-
-alterado
